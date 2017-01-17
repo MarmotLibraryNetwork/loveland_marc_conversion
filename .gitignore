@@ -1,0 +1,7 @@
+.idea
+out
+results
+catalog_bibs
+*.mrc
+*.log
+*.xlsx
